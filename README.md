@@ -15,7 +15,7 @@ biz bunu bizim backendde mysql database-de yarandigini gore bilerik
 
 2)Eger biz article melumatlarini deyisemk isteyirikse, update butonundan istifade ederik ve biz id ile olan getmethodundan istifade ederek bizim evvelki melumatlar ekranda gorunur
 ![alt text](image-4.png)
-Daha sonra biz melumati deyiserek update edirik.(Mes: evvel Autthor olan setri Author NAme etdik)
+Daha sonra biz melumati deyiserek update edirik.(Mes: evvel Autthor olan setri Author Name etdik)
 ![alt text](image-5.png)
 Database-de melumatin deyisdiyisini goruruk
 ![alt text](image-6.png)
